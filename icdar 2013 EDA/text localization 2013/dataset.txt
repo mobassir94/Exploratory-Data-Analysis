@@ -1,0 +1,10 @@
+Task 2.1: Text Localization (2013 edition)
+Training Set
+Training Set Images (142Mb). - 229 images that comprise the training dataset.
+
+Training Set Text Localization Ground Truth (39Kb). - 229 Text files (one per image) as explained in the "Tasks" section.
+
+Test Set
+Test Set Images (112Mb). - 233 images that comprise the test set for tasks 2.1, 2.2 and 2.4. You can submit your results for this Task over the images of the test set through the My Methods section.
+
+Test Set Ground Truth (46Kb). - 233 text files with text localisation bounding boxes for the images of the test set.

@@ -1,0 +1,7 @@
+Training Set
+Training Set Word Images and Ground Truth (80Mb). - 848 images of words cut from the original images and a single text file with the ground truth transcription of all images as specified in the "Tasks" section.
+
+Test Set
+Test Set Word Images (81Mb). - 1095 images that comprise the word recognition test set. You can submit your results for this Task over the images of the test set through the My Methods section.
+
+Test Set Ground Truth (25Kb). - A single text file with the transcriptions of the 1095 images of the test set. Each line corresponds to an image of the test set.

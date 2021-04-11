@@ -1,0 +1,9 @@
+Training Set
+Training Set Images (142Mb). - 229 images that comprise the training dataset. This is the same dataset as for Task 2.1.
+
+Training Set Text Segmentation Ground Truth (3Mb). - 229 colour-coded images and corresponding text files as explained in the "Tasks" section.
+
+Test Set
+Test Set Images (112Mb). - 233 images that comprise the test set for tasks 2.1, 2.2 and 2.4. You can submit your results for this Task over the images of the test set through the My Methods section.
+
+Test Set Ground Truth (1.5Mb). - 233 colour coded image corresponding to the images of the test set. Each colour marks a different atom - white is background.

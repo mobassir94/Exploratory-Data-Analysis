@@ -1,0 +1,1 @@
+i only keep 1 image of each folder,just to show  you with simplest EDA,how it was designed for icdar 2013 robust reading challenge, collect the full dataset from here : https://rrc.cvc.uab.es/?ch=2 
